@@ -29,3 +29,11 @@ chmod +x kawaii_2026.sh
 ```bash
 Untuk testing (Non-Root): ./kawaii_2026.sh
 ​Untuk attack (Root): tsu lalu ./kawaii_2026.sh
+Linux : sudo ./kawaii_2026.sh
+​Termux : tsu lalu ./kawaii_2026.sh
+```
+### 4. ​📂 File List SSID
+**​Untuk menggunakan fitur Spam Fake AP, pastikan Anda memiliki file list.txt di folder yang sama. Isi file tersebut dengan nama-nama WiFi yang Anda inginkan (satu nama per baris).**
+
+### ​5. Disclaimer
+**Alat ini dibuat untuk tujuan edukasi dan pengujian keamanan jaringan yang sah. Segala bentuk penyalahgunaan adalah tanggung jawab pengguna sepenuhnya.**
