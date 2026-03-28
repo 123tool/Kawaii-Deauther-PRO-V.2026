@@ -20,3 +20,7 @@ Perangkat lunak pengujian penetrasi WiFi profesional yang dirancang untuk melaku
 ```bash
 git clone [https://github.com/123tool/Kawaii-Deauther-PRO-V.2026.git](https://github.com/123tool/Kawaii-Deauther-PRO-V.2026.git)
 cd Kawaii-Deauther-PRO-V.2026
+```
+### 2. Eksekusi
+```bash
+chmod +x kawaii_2026.sh
