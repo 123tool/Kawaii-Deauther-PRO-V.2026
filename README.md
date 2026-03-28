@@ -24,3 +24,8 @@ cd Kawaii-Deauther-PRO-V.2026
 ### 2. Eksekusi
 ```bash
 chmod +x kawaii_2026.sh
+```
+### 3. Jalankan
+```bash
+Untuk testing (Non-Root): ./kawaii_2026.sh
+​Untuk attack (Root): tsu lalu ./kawaii_2026.sh
