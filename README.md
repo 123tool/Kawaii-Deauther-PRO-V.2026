@@ -18,5 +18,5 @@ Perangkat lunak pengujian penetrasi WiFi profesional yang dirancang untuk melaku
 
 ### 1. Clone Repository
 ```bash
-git clone [https://github.com/USERNAME_KAMU/kawaii-deauther-2026.git](https://github.com/USERNAME_KAMU/kawaii-deauther-2026.git)
-cd kawaii-deauther-2026
+git clone [https://github.com/123tool/Kawaii-Deauther-PRO-V.2026.git](https://github.com/123tool/Kawaii-Deauther-PRO-V.2026.git)
+cd Kawaii-Deauther-PRO-V.2026
